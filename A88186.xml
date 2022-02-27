@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For every individuall member of the honourable House of Commons</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88186</idno>
+            <idno type="STC">Wing L2109</idno>
+            <idno type="STC">Thomason E414_9</idno>
+            <idno type="STC">ESTC R204503</idno>
+            <idno type="EEBO-CITATION">99863992</idno>
+            <idno type="PROQUEST">99863992</idno>
+            <idno type="VID">116210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116210)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For every individuall member of the honourable House of Commons</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end: Iohn Lilburne. From my lawless, tyrannicall and most uniust captivity in the Tower of London this 11 No. 1647.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 13. 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Habeas corpus --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:116210:1" rendition="simple:additions"/>
+            <head>For every Individuall Member of the Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>R,</hi>
+               </salute>
+            </opener>
+            <p>THe law of <hi>England</hi> having alwayes been eſteemed by me the viſible ſtate, ſecurity of my life, liberty, and propriety, for the preſervation of which, I have in the field with my ſword in my hand often run the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zzard of death, and being oppreſſed contrary thereunto by the preſent Houſe of Lords in <hi>Iune</hi> 1646. I coould doe no leſſe for my own preſervation, and the preſer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of the liberties and freedomes of my native country, then to fly by way of Appeale to the au<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hority and juriſdiction of your Houſe (my legall Peers and Equalls) who by the Commons of <hi>Eng<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and</hi> are choſen and bet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſted to be the great and grand Patrons and Guardians of their liberties and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reedomes, and ought not to ſuffer them to be trodden underfoot by all the Lords in <hi>England.</hi> And my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormall Appeale from the priſon of <hi>Newgate,</hi> I made unto your houſe, the 16. of <hi>Iune</hi> 1646. (now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rinted in the 9. 10, 11. pages of <hi>The Free mans freedome vindicated</hi>) which was accepted, and appro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed of by your Houſe, and alſo read and debated, and committed to a ſelect and choſen Committee, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here Mr. <hi>Henry Martin</hi> had the Chaſte, (before whom <hi>I</hi> made my plea, and ſince printed it, and cal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>An Anatamy of the Lords tyranny</hi>) who was on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y authoriſed in matter of fact to examine all the Lords proceedings with me, ther being then, as appealed to me no ſcruple either in the houſe, or any of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Committee about the Lords juriſdiction over a Commoner, and having moſt illegally, in a tyran<g ref="char:EOLhyphen"/>nicall and chargeable impriſonment, ſtaid above <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6 moneths for that report, there being, as to mee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppeares, ſome more ſcruples in your houſe now about the Lords juriſdiction, then was when I firſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppealed to you; your houſe reſolved upon 15. <hi>October,</hi> 1647. anew, to commit the whole <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atter of my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eport then lately made by Mr. <hi>Martin,</hi> to a new Committee, who are to conſider of preſidents in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his and the like caſes, and to ſtate their opinions to the houſe, what they thinke fit to be done there<g ref="char:EOLhyphen"/>upon, and the ſpeciall care of it is referred to Mr. <hi>Maynard,</hi> before whom and the Committee I appea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the 20. <hi>October,</hi> 1647. and had liberty to make my grand Plea in point of law againſt the Lords <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uriſdiction, and their unjuſt and illegall dealings with me, which grand plea, with my addition<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lea) herewith preſent unto you, intreating you as one of my Iudges, ſeriouſly to read and conſider I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>And on the 1. <hi>November</hi> 1647, upon a motion in your houſe for an addition to my Committee, (that ſo my long and unſupportable attendance may come to ſome iſſue) all the Members of your Houſe that will come to my Committee are added to it, and by the power of that Committee, I am ſummoned before them the 8. preſent, to ſtate my queſtions, upon which their reſults or judgements are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>low, or be grounded, and being before them, apprehended ſome conceptions in them, that the matter was very difficult and weighty, although I conceive in my aforeſaid pleas, I have made it as <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>in as the Sun that ſhines at noone day, that the Lords have dealt moſt illegally and unjuſtly with me, and dare venter my life and being upon what I have before both Committees ſaid againſt, at the Lawyer, in <hi>England</hi> in point of law, but in regard I apprehend (for all <hi>I</hi> have ſaid) that there is ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cruples in ſome Members of that Committee, and may be much more in divers in the houſe, when it is reported in that ſlender manner that it is like, there being not any reſults upon the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> queſtion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Committee. I therfore crave leave in writing to ſtate my queſtions I preſented to the Commit<g ref="char:EOLhyphen"/>tee, with ſome additions to them, and in the firſt place <hi>I</hi> lay down this poſition, which at my utmoſt <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> according to the rules of law and iuſtice, <hi>I</hi> will make good, <hi>viz.</hi>
+            </p>
+            <p>That the book called my plea to <hi>Iudge Reeves,</hi> for wrighting of which I was ſummoned to the Lords bar, it an honeſt and iuſt booke, free from ſcandals and falſhoods, and hath nothing but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in it, and therefore neither puniſhable by the Houſe of Lords, nor any Court of juſtice in England, but admit it were full of notorious ſcandalls in the higheſt nature, the maine queſtion will <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p n="1">1. Whether the houſe of Lords by the Law of England, have any originall iuriſdiction, in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly, to ſummon me a free commoner of England up to their barre to anſwer a charge for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the foreſaid booke, or any other booke though never ſo ſcandalous in it ſelf? which I poſitively deny, and ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ven ſtrong reaſons or arguments J made before, and gave unto the foreſaid Committee, which you may pleaſe to read in my Grand Plea pag. 6, 7, 8, 9, 10, 11, 12 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of which briefly are.<note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alſo my plea Mr. Martin, pa. <hi>9. 10.</hi>
+               </note>
+            </p>
+            <pb facs="tcp:116210:2"/>
+            <p> Firſt that the Lords ſit not in their Houſe by any power or authority, d<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> from the peoples free election and choice, but are meerly and altogether the <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tures of the King, made by his prerogative, ſometimes of the baſeſt and corr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of the people, being the meere iſſues of his will, who himſelfe is limited and bounded by the law, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> who by his writ that ſummons them to ſit in Parliament, only impowers them to confer and treat <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him (or afford their Councell) of certaine hard urgent affaires, concerning himſelfe, the State, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> defence of the Kingdome of England, and the Church thereof, but my pretended offence touch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> none of theſe things. And beſides, the Lords had no conference nor treaty with the King, their pre<g ref="char:EOLhyphen"/>rogative foutaine, <hi>Ergo:</hi> but read my Grand plea, pag. 6, and 7.</p>
+            <p>Secondly, <hi>I</hi> was the 10. of <hi>Iune</hi> 1646. ſummoned up to the Lords bar, to anſwer ſuch things a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtood charged with before their Lorſhips, concerning a pamphlet intituled as before, which did not in the leaſt belong unto the juriſdiction of their Court, but at the moſt, is meerly an action tryable at the Common law, and no where elſe, (ſee <hi>Cookes</hi> 5. <hi>part report, pag.</hi> 125. <hi>De libellis fam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſis, and</hi> 13. <hi>Hen.</hi> 7. <hi>Relway, and</hi> 11 <hi>Eliz. Dier</hi> 285. <hi>and</hi> 30. <hi>Aſſiſe, pla.</hi> 19. <hi>and</hi> 3. <hi>E.</hi> 1. <hi>chap.</hi> 33. <hi>and</hi> 37. <hi>E.</hi> 3.18. <hi>and</hi> 38. <hi>E.</hi> 3.9. <hi>and</hi> 42. <hi>E.</hi> 3.3. <hi>and</hi> 2. <hi>R.</hi> 2.5 <hi>and</hi> 12. <hi>R.</hi> 2.11. <hi>and</hi> 1 <hi>part of your own book <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Decl. pag.</hi> 208. <hi>read my Plea pag.</hi> 7, <hi>and</hi> 8.) And being ſo, they ought not to have medled with it, it being a known maxime in law, that when an ordinary remedie may be had, an extraordinary is not to be made uſe of.</p>
+            <p>Thirdly, no man is to be impriſoned nor iudged, but by the known, eſtabliſhed and declared law<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the land, <hi>ſee the Petition of Right.</hi> But there is no eſtabliſhed law of the land for the iudgment of the Lords in any thing, where the King their creature is not concurrent, 14. <hi>E.</hi> 3. <hi>c.</hi> 5. Which ſtatute plainly ſhewes that in delayes of iuſtice or error in iudgement in inferior Courts, (which is all the cauſes they have iuriſdiction of by law, which binds them as well as any other Court, 4. <hi>H.</hi> 4.23.) there ought to be a Petition to the King, and a Commiſſion from him to them, to give them cognizance or power of it, but none of this was in my caſe <hi>Ergo:</hi> but read my Plea, pag. 8. and 9</p>
+            <p>Fourthly, By <hi>Magna Charta,</hi> and 3. E. 1.16 and the <hi>Petition of Right,</hi> no man is to be iudged <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by his Peers or Equalls, that is men of his own condition, and by due proceſſe, by indictment, pre<g ref="char:EOLhyphen"/>ſentment, or originall writ, by a iurie of his Equall, of good and lawfull people of the ſame neigh<g ref="char:EOLhyphen"/>bourhood, according to the old law of the land. But the Lords are none of my Peers, <hi>See Clarkes caſe</hi> 5. <hi>part Cookes reports, and his</hi> 2. <hi>part inſtitutes. ſol.</hi> 28.29.48.50. <hi>and Sir Simon de Berisfords caſe</hi> 4. <hi>E.</hi> 3. <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi> 2. Neither had I in any one particular any legall proceeding, being ſummoned before any charge was filed againſt me <hi>Ergo:</hi> but read my plea pag. 9, and 10.</p>
+            <p>Fiftly, By the lawes of this land, no man is to be Iudge in his own caſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>H.</hi> 6. <hi>ſol.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>and</hi> 5. <hi>E<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. Dier.</hi> 220. and Dr. <hi>Bonhams caſe</hi> 8. <hi>part Cookes reports.</hi> But the Lords were with me complainants proſecutors, witneſſes, fury and Iudges, <hi>Ergo:</hi> but read my plea, pag. 10. 11. and 1. part <hi>book, D<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</hi> pag. 38. 39. 201, 278.</p>
+            <p>Sixtly, if the Lords iudgement originally were binding againſt me, then a few Lords would bl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not only me, but all the Commons of England, (who one by one may be ſerved by them as I am) and that without any hope of redreſſe, they being Iudges ſtill in the appeal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (which both law and rea<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> abhors, 1. <hi>part book Decl. pag.</hi> 41. 150. 207. 496. 637. 690. 726. 728) and to by this meanes the weale and ſafety of the people (called by you the ſupreame law, 2. <hi>part book Decl. pag.</hi> 879.) is totally deſtroyed, and we the Commons of <hi>England</hi> made the perfecteſt ſlaves in the world, by having o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fundamentall lawes deſtroyed and made Cyphers, and the power of our repreſentatives deſtroyed and made Ciphers, which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s an act of higher treaſon then ever was committed by <hi>Str<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fford,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thouſand times more iuſtly deſerves his doome, then his crime (of but endevouring to ſubvert <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> fundamentall lawes) did, but read my grand plea, pag. 11, and 12.</p>
+            <p>Seventhly, The Lords being the meere creatures of the King made by his will, and pleaſure, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there as prerogative perſons only, and yet in law and by their own principles, as Lords with<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the King they have to prerogative, and yet have with a witneſſe a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted upon me, &amp;c. without the King or his particular Commiſſion, which makes all they have done unto me to be null, and void, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in law and reaſon, and renders them in my apprehenſion (for this their habit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llneſſe in the w<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and higheſt of tyranny) to have forfeited their power and honour, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ought any <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:116210:2"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> truſtees of the people, (and who ſhould be the carefull<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and watchfull Guardians of their lawes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd liberties) to be owned or acknowledged to be a houſe of Peers, but a company of Apoſtates falno <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om their firſt inſtitution, and abſolutely degen<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ated into a pack of tyrants, and therefore in equity, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſon, and iuſtice, ought as well as the Star-Chamber, to be pluckt up by the roots and tranſcendently <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ned beſides.</p>
+            <p>The ſecond queſtion that at the Committee I truly ſtated was this, whether it be warrantable or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtifiable by law in the Houſe of Lords to ſummon me a free and legall Commoner of <hi>England</hi> up to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, to anſwer a charge before any be in being, or filed againſt me? which alſo I poſitively deny, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd have proved to be moſt illegall in my plea laſt yeare before Mr. pag. 8: 9 ſee alſo the 4th reaſon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efore.</p>
+            <p>My third queſtion at the Commitee <hi>I</hi> ſtated to this effect, whether by the law of <hi>England,</hi> it be juſtifi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble for the Lords to ſummon me up to their bar to anſwer a charge, and then when I come there, re<g ref="char:EOLhyphen"/>fuſe to ſhew it me, though deſired by me, but examine me upon interrogatories againſt my ſelfe? which <hi>I</hi> alſo confidently deny, and for proofes ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your own Votes made for me in your houſe the 21. of <hi>May</hi> 1641. againſt the Star-Chamber, and the Lords own decree made in that very cauſe 13. <hi>Feb.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>645. printed in the laſt page of my relation of my proceedings at their bar.</p>
+            <p>My fourth queſtion that now <hi>I</hi> truly ſtate is this, whether it be warrantable by law in the Lords to ſummon me to anſwer a charge at their bar before they have any crimes againſt me, and Ex <hi>officio</hi> to examine me, and thereby either force it to ſtand mute, (which they would conſture a contempt) or to plead for my ſelfe, and from my plea to p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck quarrells againſt me; and ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otally wave the thing they originally ſummoned me for, and commit me for a pretended crime, com<g ref="char:EOLhyphen"/>mitted <hi>Ex poſtſacto,</hi> to remaine in priſon, during their pleaſure? which is <hi>ad infi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itum</hi> even till dooms day in the afternoon, for they will never be juſt till then, and ſo <hi>I</hi> ſhall never be releaſed by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem: ſee their warrant of commitment of the 11. <hi>Iune</hi> 1646. and my printed plea to Mr. <hi>Martin,</hi> pag 5. and 7.</p>
+            <p>My fift queſtion I ſtate is this, whether it be warrantable by the law of <hi>England,</hi> for the Lords to ſummon me up to their bar, where by their ille<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all dealings with me, I am neceſſitated to declare a<g ref="char:EOLhyphen"/>gainſt their aſſuming a juriſdiction over me, and before them under my hand and ſeale, appeale to my legall judges the Houſe of Commons, and yet notwithſtanding they got on to judge me, before my appeale (which was a ſuperſedeas) be determined? ſee my reaſons in the 9. p. of my plea to Mr. <hi>Martin.</hi>
+            </p>
+            <p>My ſixt queſtion I ſtate thus, whether it be warrantable by law for the Lords to ſummon me up to their bar after my appeale to the Houſe of Commons, and when I am by force brought, ſay nothing to me, but command me to kneele at their bar, and for refuſing ſo to doe, commit me during their plea<g ref="char:EOLhyphen"/>ſure cloſe priſoner to <hi>Newgate,</hi> without pen, inke, or paper, or the acceſſe of any whatſoever in any kind, but only my keeper, and then to ſet <hi>Sergeant Finch,</hi> Mr. <hi>Hayle,</hi> Mr. <hi>Hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne,</hi> and Mr. <hi>Glover,</hi> to draw up a charge againſt me, for pretended crimes committed after my firſt ſummons, and without ever giving me notice, or ſuffering me to ſpeake either with my wife, friends or councell, to bring me up the third time after three weekes cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and barbarous tyrannicall reſtraint, to anſwer a charge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſee their warrant of cloſe impriſonment of the 23. of <hi>Iune</hi> 1646. and the 5. 9. pag of my plea to <hi>Mr. Martin.</hi>
+            </p>
+            <p>My ſeaventh queſtion, I ſtate thus, whether any Court in <hi>England</hi> that meddles with that which by law they have no juriſdiction of, can either fine or impriſon the party ſummoned before them, in ſuch a caſe for contemning, affronting or abuſing of them? or whether it was any affront or contempt, (in law) in me, for maintaining in high language at the Lords bar my legall rights againſt their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ping incroachments ſee my reaſons and arguments in the 12, 13, 14. pages of my grand plea.</p>
+            <p>My eight queſtion is this, whether or no it be juſtifiable by the law of <hi>England,</hi> for the houſe of Lords for a pretended or reall miſdemeanor, totally to deſtroy my contin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment or continuance by fining me 4000. l. being more then ever I wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> worth? and making me uncapable for ever to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my office either Marſhall or Civill in Church or Common wealth, and ſeaven years impriſonment in the Tower of <hi>London,</hi> 11. or 13. weekes of which in the Tower J was divorced from my wife, and all my friends, and the names of all thoſe that came to viſit me taken? ſee the 14. <hi>chap of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> 3. <hi>E.</hi> 1.6. and the 10. and 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. pages of <hi>my plea to Mr. Martin.</hi>
+            </p>
+            <pb facs="tcp:116210:3"/>
+            <p> My laſt queſtion is this, whether in caſe the Lords have no legall juriſdiction over me, wheth<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no are not all thoſe Gaolers and keepers of priſons, &amp;c. that have executed their illegall orders, de<g ref="char:EOLhyphen"/>crees, and commands upon me, lyable by the law of <hi>England</hi> to make me reparations therefore? <hi>In the caſe of the Marſhall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, in the</hi> 10. <hi>part of Cookes reports.</hi>
+            </p>
+            <p>And now Sir, ſeeing the Committee hath not fulfilled the order of the houſe, in giving their o<g ref="char:EOLhyphen"/>pinions of the cauſe, and yet intend to report it, by which meanes I have loſt and am deprived of the chiefeſt good <hi>I</hi> expected from the Committee, and may be at ten times a greater loſſe in the Ho<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſo rawly it come to be reported, wherefore if you be a true Engliſh man, and a man of juſtice and <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nour, <hi>I</hi> earneſtly and preſſingly deſire your juſt aſſiſtance, that I may have a ſpeciall day aſſign<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Committee once againe to ſit, and that ſeeing by divers of your houſe, the opinions of the Law<g ref="char:EOLhyphen"/>yers is iudged ſo eſſentiall to the determination of the buſineſſe, <hi>I</hi> earneſtly deſire your iuſt aſſiſtan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for aſpeciall order from your houſe, that 10. or 20. of them may attend that day. And in regard Mr. <hi>Maynard</hi> to whom by your houſe the eſpeciall care of the buſineſſe is committed, is ſo extraordinary full of buſineſſe being tear me time, that it may be he cannot conveniently be there, nor it may be ſpe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo much time as a full and legall debate, <hi>pro andcon</hi> will require, then <hi>I</hi> earneſtly deſire, that ſeeing all the members of the houſe are of that Committee, that the Maior number preſent, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> appo<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> new Chairman, fully to debate and argue the buſineſſe openly and freely and poſitively draw up the reſults, opinions, and ſenſe of the Committee upon the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hole buſineſſe, and if your houſe thi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>I</hi> earneſtly deſire the Lords may have notice to ſend, if they pleaſe their Proctors, to defend if they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their dealing with me, or if not this:</p>
+            <p>Then ſecondly, <hi>I</hi> earneſtly deſire your aſſiſtance to procure of the houſe, a fixed day when Mr. <hi>May<g ref="char:EOLhyphen"/>nard</hi> ſhall make the report as it is, that ſo it may receive a full debate in a conſiderable full houſe and that if it be poſſible the houſe may be turned into a grand Committee, that ſo every man may fully ſpeake his conſcience and iudgement, that ſo every man in the houſe may truly know the ſtate of the buſineſſe, that ſo neither the Houſe of Lords, nor I may raſhly or inconſiderately be condemned, by maiority of voices, and if my cauſe ſingly laid in the impartiall ſcale of iuſtice and law, will not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our it ſelfe, <hi>J</hi> crave not our haires breadth of favour or mercy, only <hi>I</hi> earneſtly deſire that none of my writings occaſioned by the Lords tranſcendent and almoſt unſupportable oppreſſions <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>he, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be thrown in, to hinder the validity, force or ſtrength of that judgement I deſire, till the finall iudge<g ref="char:EOLhyphen"/>ment of your houſe be paſt, and then I ſhall according to the rule of law and juſtice, anſwer the Lords or any elſe in <hi>England,</hi> that hath any thing to ſay to me therefore. And to conclude all, ſeeing the Apoſtle <hi>Paul</hi> ſaith, <hi>He is worſe then an infidell, that doth not his utmoſt to provide for his family.</hi> And the Prophet Ieremiah ſaith, <hi>They that be ſlai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with the Sword, are better then they that be ſlain</hi> with <hi>hunger for theſe pure away, ſtricken through for want of the fruits of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> And ſeeing? <hi>I</hi> have ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e been free one years together this 11. yeares from chargeable <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and ſeeing <hi>I</hi> ha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>llowed this Houſe now above 7. yeares for iuſtice againſt my Star-Chamber iudges to my extraor<g ref="char:EOLhyphen"/>dianry charges, and yet to this day have not obtained one farthing tokens worth <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ctive iuſtice all which truly ſaid together be good earneſt, renders any gallant death in the wor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e) more acceptable unto me th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a continuance in my uniuſt, un<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pportable and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> impriſonment, it being too perfect a b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſlavery for a heroic-<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſpirit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>y to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>maine <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therefore if there be my <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of compaſſion in you, or any ſparke of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cience, I moſt came <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and moſt pre<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y intreat your active aſſiſtance <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeedy per<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y buſineſſe before you, either to my iuſtification it innocent, or condemnation <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>legally guilty, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that <hi>I</hi> may not be kept in perſon in a <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ing condition, but may immediately be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an allowance for my ſub<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce as is my right and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, both by the law of England, and the cuſtomed the Power. Or elſe that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will take ſpeedy <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I may receive <gap reason="illegible" resp="#KEYERS" extent="8 letters">
+                  <desc>〈8 letters〉</desc>
+               </gap>tions from my S<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>-Chamber Iudges, (which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laid at your <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 2. yeares, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your Houſe to hel<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> me to (if they pleaſe) as for me to come to <hi>Weſtminſter</hi> to deſire it of yo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ſo I may have ſome thing of my own to keep me alive, and my wife and little children, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I rest your true friend in the faithfull diſcharge of your duty to the kingdome.</p>
+            <closer>
+               <signed>Iohn Lilburne.</signed>
+               <dateline>From <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and moſt <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the Tower of London <date>this <hi>8</hi> No. <hi>1647.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
